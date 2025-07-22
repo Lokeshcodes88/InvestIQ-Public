@@ -1,4 +1,4 @@
-# 📈 InvestIQ – Personalized Equity Portfolio Tracker
+# InvestIQ – Personalized Equity Portfolio Tracker
 
 **InvestIQ** is a full-fledged web application designed to help retail investors intelligently manage and analyze their equity investments. The platform offers features such as real-time portfolio tracking, XIRR performance analysis, Risk metrics analysis, benchmark comparisons, and seamless transaction management, all with a clean and responsive interface.
 
@@ -8,7 +8,11 @@
 > 💡 Built with **React**, **FastAPI**, **PostgreSQL**, **Redis**, and **Tailwind CSS**  
 > 🔒 Secure login with JWT-based authentication  
 > ⏱️ Real-time auto-refresh and scheduled caching for performance  
-> ☁️ Future-ready: Easily deployable to cloud platforms like AWS, GCP, or Azure  
+> ☁️ Future-ready: Easily deployable to cloud platforms like AWS, GCP, or Azure
+
+ ## 🎥 Demo
+See InvestIQ in action:
+👉 [Click here to watch the InvestIQ Demo](https://tinyurl.com/investiq-demo)
 
 ---
 
